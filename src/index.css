@@ -20,3 +20,25 @@ body{
   align-self: center;
   max-width: 300px;
 }
+.card{
+width: 200px;
+font-size: 14px;
+}
+.card-image{
+  width: 100%;
+  border-radius: 9px;
+
+}
+.card-details{
+  display: flex;
+  align-items: center;
+}
+.card-star{
+  height: 16px;
+}
+.gray{
+  color: #918E9B;
+}
+.bold{
+  font-weight: bold;
+}
