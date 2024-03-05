@@ -52,3 +52,13 @@ body{
 .bold{
   font-weight: bold;
 }
+.sold-badge{
+  background: white;
+  box-shadow: 0px 2px 5px black;
+  position: relative;
+  top: 10%;
+  width: 80%;
+  padding: 8px;
+  font-weight: bold;
+  text-align: center;
+}
